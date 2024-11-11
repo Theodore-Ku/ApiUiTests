@@ -1,0 +1,1 @@
+--tests tests.junit5.reruns.SimpleTests.exampleOfRerunTest*
